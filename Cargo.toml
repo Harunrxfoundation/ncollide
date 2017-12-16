@@ -35,7 +35,7 @@ ncollide_transformation = { path = "ncollide_transformation", version = "0.8" }
 approx   = "0.1"
 alga     = "0.5"
 nalgebra = "0.13"
-rand     = "0.3"
+rand     = "0.4.0-pre.0"
 
 [workspace]
 members = [ "ncollide_math", "ncollide_utils", "ncollide_geometry", "ncollide_pipeline",
